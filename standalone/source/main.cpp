@@ -1,10 +1,9 @@
-import stk.tpl;
+import stk.atom;
 
 using namespace stk;
 
 int main()
 {
-	c_template tpl;
-	tpl.go_template();
+	c_atom atom;
 	return 0;
 }
